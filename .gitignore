@@ -16,6 +16,11 @@ dist/
 .env.test.local
 .env.production.local
 
+# Cloudflare / Wrangler
+.wrangler/
+.open-next/
+.dev.vars
+
 # Misc
 .DS_Store
 *.pem
